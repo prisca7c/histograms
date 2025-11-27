@@ -1,7 +1,7 @@
 # NE111 Statistical Histogram Fitter
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://refactored-cod-wwgj4g76gpvf5gjw-8501.app.github.dev/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://histograms.streamlit.app/)
 
 ### How to run it on your own machine
 
